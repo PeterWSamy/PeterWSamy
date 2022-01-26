@@ -1,4 +1,5 @@
-▶️👋 Hi, I’m @PeterWSamy I am a hard working student who is eager to learn and acquire new skills.
+<h1> 👋 Hi, I’m Peter Wagdy </h1> 
+▶️I am a hard working student eager to learn and acquire new skills.
 I learn linearly and grow exponentially 😉 📈. 
 
 ▶️I am currently studying computer and communication engineering at Alexandria university. 
