@@ -3,7 +3,7 @@
 
 🚀 Welcome to my GitHub Universe! 🌐
 
-As a passionate Full Stack Developer, I thrive on transforming innovative ideas into robust, scalable, and user-centric applications. My journey in the digital realm has been fueled by a profound expertise in Node.js, Express, and Angular – the dynamic trio that powers the heart of web development.
+As a passionate Full Stack software engineer, I thrive on transforming innovative ideas into robust, scalable, and user-centric applications. My journey in the digital realm has been fueled by a profound expertise in Node.js, Express, and Angular – the dynamic trio that powers the heart of web development.
 
 🛠️ On the backend, I orchestrate seamless data flow and build robust APIs with Node.js and Express, ensuring a solid foundation for scalable applications. With a keen eye for frontend excellence, I craft intuitive and responsive user interfaces using Angular, delivering a delightful experience across diverse devices.
 
