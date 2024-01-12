@@ -22,5 +22,3 @@ Feel free to explore my repositories, and let's connect to push the boundaries o
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterwsamy&show_icons=true&locale=en&layout=compact" alt="peterwsamy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterwsamy&show_icons=true&locale=en" alt="peterwsamy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterwsamy&" alt="peterwsamy" /></p>
