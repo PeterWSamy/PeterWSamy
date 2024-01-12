@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Peter Wagdy</h1>
 <h3 align="center">Crafting code, Creating solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peterwsamy&label=Profile%20views&color=0e75b6&style=flat" alt="peterwsamy" /> </p>
+🚀 Welcome to my GitHub Universe! 🌐
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterwsamy" alt="peterwsamy" /></a> </p>
+As a passionate Full Stack Developer, I thrive on transforming innovative ideas into robust, scalable, and user-centric applications. My journey in the digital realm has been fueled by a profound expertise in Node.js, Express, and Angular – the dynamic trio that powers the heart of web development.
 
-- 📫 How to reach me **peterwagdy50@gmail.com**
+🛠️ On the backend, I orchestrate seamless data flow and build robust APIs with Node.js and Express, ensuring a solid foundation for scalable applications. With a keen eye for frontend excellence, I craft intuitive and responsive user interfaces using Angular, delivering a delightful experience across diverse devices.
+
+📱 Venturing beyond the web, I've delved into the realm of mobile development with Flutter and Dart. Crafting natively compiled applications, I bring a harmonious blend of performance and elegance to the mobile landscape.
+
+👨‍💻 Through collaborative coding and a commitment to best practices, I aim to contribute not just code but solutions that stand the test of real-world challenges. Let's embark on a coding adventure together, where innovation knows no bounds!
+Feel free to explore my repositories, and let's connect to push the boundaries of technology together! 🚧✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
